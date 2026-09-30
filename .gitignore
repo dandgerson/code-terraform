@@ -13,3 +13,4 @@ typeshed-LICENSE.txt
 *.codeterraform-write.bak
 *.codeterraform-write.tmp
 *.codeterraform-retired-*.bak
+docs/manual.md
