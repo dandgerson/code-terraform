@@ -1,0 +1,1 @@
+self.calibrate(self.get_value() * 100)
